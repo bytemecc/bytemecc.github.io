@@ -1,0 +1,47 @@
+body { background-color: SlateGray; }
+h1 {
+	color: white;
+	font-size: 800%;
+	text-align: center;
+	margin-top: 14%;
+	line-height: 1;
+	font-family: 'Press Start 2P', cursive;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+h2 {
+  color: white;
+  font-size: 300%;
+  text-align: center;
+  margin-top: 1%;
+  line-height: 1;
+  font-family: 'Press Start 2P', cursive;
+  padding-bottom: 0px;
+  margin-bottom: 50px;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+  font-size: 120%;
+  font-family: 'Press Start 2P', cursive;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: lightskyblue;
+  text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+  color: lightskyblue;
+  text-decoration: underline;
+}
